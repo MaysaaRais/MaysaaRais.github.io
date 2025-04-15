@@ -1,48 +1,51 @@
 ---
 layout: archive
-title: "Quant Projects"
+title: "Quantitative Research & Market Modelling"
 permalink: /projects/
 author_profile: true
 ---
 
-## 🧠 Selected Quantitative Finance Projects
+## Selected Projects in Quantitative Finance
 
-These projects showcase analytical tools and models built using Python, applied to derivatives pricing, volatility forecasting, and market structure.  
-All code is written from scratch without using pre-built quant libraries.
-
----
-
-### 📈 Black-Scholes Pricing Engine  
-Built a vanilla option pricing engine with full analytical Greeks (Delta, Gamma, Vega).  
-Includes volatility/maturity surface plotting.
-
-🔗 [View Code on GitHub](https://github.com/MaysaaRais/portfolio-maysaa-rais/tree/main/Black-Scholes)
+This page highlights applied research and development work in financial engineering, with a focus on pricing models, volatility dynamics, and market risk analysis.  
+All models are built from scratch in Python, with an emphasis on reproducibility, efficiency, and interpretability.
 
 ---
 
-### 🌀 Heston Monte Carlo Simulator  
-Implemented Monte Carlo paths for a stochastic volatility process with visualization and calibration to market smiles.
+### ▸ Black-Scholes Pricing Engine  
+Implementation of the analytical Black-Scholes formula for European options.  
+Includes closed-form expressions for first- and second-order Greeks and visualization of volatility surfaces.
 
-🔗 [View Code on GitHub](https://github.com/MaysaaRais/portfolio-maysaa-rais/tree/main/Heston)
-
----
-
-### 📊 Exotic Greeks Estimation – Monte Carlo  
-Estimated Delta/Vega/Gamma for exotic options using pathwise & likelihood ratio methods.
-
-🛠️ *In progress*
+🔗 [GitHub Repository](https://github.com/MaysaaRais/portfolio-maysaa-rais/tree/main/BlackScholes)
 
 ---
 
-### 📉 Volatility Forecasting (GARCH vs RNN)  
-Forecasted FX volatility using traditional and deep learning methods.  
-Compared RMSE performance across models.
+### ▸ Heston Model – Monte Carlo Simulation  
+Simulation of stochastic volatility paths under the Heston model.  
+Numerical pricing of European options via Monte Carlo and calibration of implied volatility smiles.
 
-🛠️ *In progress*
+🔗 [GitHub Repository](https://github.com/MaysaaRais/portfolio-maysaa-rais/tree/main/HestonModel)
 
 ---
 
-### ⚡ Market Microstructure Anomaly Detection  
-Built an anomaly detection pipeline on tick-level data to uncover unusual market events.
+### ▸ Exotic Greeks Estimation  
+Estimation of risk sensitivities (Delta, Vega, Gamma) for non-vanilla payoffs using pathwise and likelihood ratio methods.  
+Evaluation of estimator bias and variance under different scenarios.
 
-🛠️ *In progress*
+🛠️ In progress
+
+---
+
+### ▸ Volatility Forecasting – GARCH vs RNN  
+Comparison of classical econometric models (GARCH, EGARCH) and deep learning methods (RNN) for short-horizon FX volatility prediction.  
+Performance assessed via RMSE and backtested on high-frequency datasets.
+
+🛠️ In progress
+
+---
+
+### ▸ Market Microstructure – Anomaly Detection  
+Exploration of limit order book dynamics using tick-by-tick data.  
+Unsupervised detection of anomalous trading patterns using statistical distance metrics and clustering.
+
+🛠️ In progress
