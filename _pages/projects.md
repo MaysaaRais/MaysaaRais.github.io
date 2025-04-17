@@ -16,7 +16,9 @@ All models are built from scratch in Python, with an emphasis on reproducibility
 Implementation of the analytical Black-Scholes formula for European options.  
 Includes closed-form expressions for first- and second-order Greeks and visualization of volatility surfaces.
 
-🔗 [GitHub Repository](https://github.com/MaysaaRais/portfolio-maysaa-rais/tree/main/BlackScholes)
+🔗 [View Notebook on nbviewer](https://nbviewer.org/github/MaysaaRais/portfolio-maysaa-rais/blob/main/BlackScholes/BlackScholes.ipynb)
+🔗 [View on GitHub](https://github.com/MaysaaRais/portfolio-maysaa-rais/tree/main/BlackScholes)
+
 
 ---
 
