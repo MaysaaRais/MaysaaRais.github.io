@@ -1,6 +1,6 @@
 main:
   - title: "Projects"
-    url: /projects/
+    url: https://maysaarais.github.io/projects/
 
   - title: "CV"
     url: /cv/
