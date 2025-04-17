@@ -32,7 +32,7 @@ Numerical pricing of European options via Monte Carlo and calibration of implied
 Estimation of risk sensitivities (Delta, Vega, Gamma) for non-vanilla payoffs using pathwise and likelihood ratio methods.  
 Evaluation of estimator bias and variance under different scenarios.
 
-🛠️ In progress
+[Notebook coming soon]
 
 ---
 
@@ -40,7 +40,8 @@ Evaluation of estimator bias and variance under different scenarios.
 Comparison of classical econometric models (GARCH, EGARCH) and deep learning methods (RNN) for short-horizon FX volatility prediction.  
 Performance assessed via RMSE and backtested on high-frequency datasets.
 
-🛠️ In progress
+[Notebook coming soon] 
+
 
 ---
 
@@ -48,4 +49,5 @@ Performance assessed via RMSE and backtested on high-frequency datasets.
 Exploration of limit order book dynamics using tick-by-tick data.  
 Unsupervised detection of anomalous trading patterns using statistical distance metrics and clustering.
 
-🛠️ In progress
+[Notebook coming soon] 
+
