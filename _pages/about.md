@@ -49,4 +49,4 @@ I am particularly interested in the intersection between financial engineering, 
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/maysaa-r/),  
 by email at [maysaarais@hotmail.com](mailto:maysaarais@hotmail.com),  
-or consult my [CV](https://maysaarais.github.io/files/MaysaaRais_CV.pdf) for more information.
+or consult my [CV](https://maysaarais.github.io/files/RAIS_Maysaa_CV.pdf) for more information.
