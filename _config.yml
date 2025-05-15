@@ -355,7 +355,7 @@ compress_html:
 
 navigation:
   - title: "Projects"
-    url: /projects.md/
+    url: /projects/
   - title: "CV"
     url: /cv/
   - title: "Contact"
