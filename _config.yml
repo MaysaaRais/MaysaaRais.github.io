@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Maaysaa Rais"
+  name             : "Maysaa Rais"
   pronouns         : # example: "she/her"  
   bio              : "Quantitative Analyst | Data & Financial Modelling | BNP Paribas & Sorbonne"
   location         : "Paris"
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "MaysaaRais"
+  github           : "MaysaaRais/portfolio"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
