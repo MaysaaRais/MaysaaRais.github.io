@@ -351,3 +351,13 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+navigation:
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /cv/
+  - title: "Contact"
+    url: /contact/
+
