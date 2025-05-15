@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Quantitative Research & Market Modelling"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
