@@ -1,64 +1,70 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Summary  
+Quantitative analyst trained in finance and data science, with hands-on experience in option pricing, market risk models and fixed income.  
+Built tools for curve construction, credit exposure, and stress testing. Interested in trading, quant strategy and model validation.
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Skills  
+**Technical**: Python (NumPy, pandas, matplotlib), SQL, Excel/VBA, Git, Jupyter, Bloomberg Terminal  
+**Quant Models**: Black-Scholes, Heston, Monte Carlo, Greeks, GARCH, IRRBB, VaR
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### BNP Paribas — ALM Analyst (Risk Modelling)  
+*09/2023 – 10/2024*  
+- Automated credit exposure models for fixed income books  
+- Monitored IRRBB, VaR and scenario sensitivities  
+- Delivered analysis to risk committees  
+- Worked closely with structuring, ALM and regulatory teams  
+
+### Bloomberg LP — Markets Analytics & Sales Program  
+*07/2023 – 08/2023*  
+- Simulated trading strategies and assessed market flows  
+- Worked with sales managers on client solutions  
+
+### Alter’Actions — Junior Consultant (Finance Strategy – Non-Profit)  
+*10/2022 – 02/2023*  
+- Risk analysis on a €500k fund, KPIs and dashboards  
+
+### Decathlon HQ — Financial Data Analyst  
+*07/2022 – 08/2022*  
+- Funding performance models and pipeline automation
+
+---
+
+## Education
+
+**Université Paris 1 Panthéon-Sorbonne** – MSc Finance, Data & Technology  
+**Université Paris Cité** – MSc PISE – Data Science Methods  
+**University of Nottingham** – BSc Economics (Erasmus)  
+**Université de Lille** – BSc Law, Economics & Management
+
+---
+
+## Certifications  
+- Bloomberg Market Concepts (BMC) & ESG  
+- IBM Machine Learning Certificate  
+- DataCamp – Data Scientist Track
+
+---
+
+## Portfolio (on [GitHub](https://github.com/MaysaaRais/portfolio))  
+- Black-Scholes Pricing Engine  
+- Heston Monte Carlo Simulator  
+- Exotic Greeks Estimator  
+- GARCH & RNNs Volatility Forecasting  
+- Market Anomaly Detector
+
+---
+
+## Languages  
+French (Fluent), English (C1), Italian (Native), Spanish (A2)
