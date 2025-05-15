@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Maysaa Rais"
 description              : &description "Portfolio | Quantitative Finance | Risk Modelling | AI for Markets"
 url                      : "https://maysaarais.github.io"
-baseurl                  : ""  # Keep empty if you're using a user/organization site like maysaarais.github.io
+baseurl                  :  # Keep empty if you're using a user/organization site like maysaarais.github.io
 repository               : "MaysaaRais/MaysaaRais.github.io"
 
 
