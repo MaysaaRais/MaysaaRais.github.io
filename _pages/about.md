@@ -5,7 +5,6 @@ permalink: /about/
 author_profile: true
 ---
 
-## About
 
 I recently graduated from the Master's program in Finance and Data Technology at Paris 1 Panthéon-Sorbonne University, where I developed a solid foundation in quantitative finance, data science, and applied modeling.
 
@@ -42,8 +41,6 @@ I am particularly interested in the intersection between financial engineering, 
 - English: C1
 
 ---
-
-## Contact
 
 ## Contact
 
