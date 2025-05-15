@@ -1,70 +1,71 @@
 ---
-layout: single
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-## Summary  
-Quantitative analyst trained in finance and data science, with hands-on experience in option pricing, market risk models and fixed income.  
-Built tools for curve construction, credit exposure, and stress testing. Interested in trading, quant strategy and model validation.
+{% include base_path %}
 
----
+Education
+======
+* MSc Finance, Technology & Data – Université Paris 1 Panthéon-Sorbonne, 2023–2024  
+  Quantitative risk, financial instruments, and applied data science  
+* MSc PISE – Statistical & Data Science Methods – Université Paris Cité, 2022–2023  
+  Time series, machine learning, and R/Python-based modeling  
+* BSc Economics (Erasmus Year) – University of Nottingham, 2021–2022  
+* BSc Law, Economics & Management – Université de Lille, 2019–2022  
 
-## Skills  
-**Technical**: Python (NumPy, pandas, matplotlib), SQL, Excel/VBA, Git, Jupyter, Bloomberg Terminal  
-**Quant Models**: Black-Scholes, Heston, Monte Carlo, Greeks, GARCH, IRRBB, VaR
+Work experience
+======
+* ALM Analyst – Market & Credit Risk – BNP Paribas (09/2023 – 10/2024)  
+  * Automated credit exposure models for fixed income  
+  * Monitored IRRBB, VaR, and scenario sensitivities  
+  * Collaborated with ALM, structuring and reporting teams  
+  * Tools: Python, Excel-VBA, SQL
 
----
+* Markets Analytics & Sales – Bloomberg LP (07/2023 – 08/2023)  
+  * Analyzed live market data and CDS pricing on Bloomberg Terminal  
+  * Simulated trading strategies  
+  * Shadowed senior sales teams  
+  * Tools: Bloomberg Terminal, Excel
 
-## Experience
+* Financial Strategy Consultant – Alter’Actions (10/2022 – 02/2023)  
+  * Risk analysis on a €500k donation fund  
+  * Power BI dashboards for reporting  
+  * Aligned KPIs with impact metrics  
+  * Tools: SQL, Power BI
 
-### BNP Paribas — ALM Analyst (Risk Modelling)  
-*09/2023 – 10/2024*  
-- Automated credit exposure models for fixed income books  
-- Monitored IRRBB, VaR and scenario sensitivities  
-- Delivered analysis to risk committees  
-- Worked closely with structuring, ALM and regulatory teams  
+* Financial Data Analyst – Decathlon HQ (07/2022 – 08/2022)  
+  * Modeled funding performance across branches  
+  * Automated data pipelines for finance teams  
+  * Tools: SQL, Excel, Tableau
 
-### Bloomberg LP — Markets Analytics & Sales Program  
-*07/2023 – 08/2023*  
-- Simulated trading strategies and assessed market flows  
-- Worked with sales managers on client solutions  
+Skills
+======
+* Python (NumPy, pandas, matplotlib), SQL, Excel/VBA, Git, Jupyter  
+* Bloomberg Terminal, Tableau, Power BI  
+* Models: Black-Scholes, Heston, Monte Carlo, GARCH, Greeks, IRRBB
 
-### Alter’Actions — Junior Consultant (Finance Strategy – Non-Profit)  
-*10/2022 – 02/2023*  
-- Risk analysis on a €500k fund, KPIs and dashboards  
+Certifications
+======
+* Bloomberg Market Concepts (BMC) & ESG – Bloomberg  
+* IBM Machine Learning Certificate – Coursera  
+* Data Scientist Certificate – DataCamp
 
-### Decathlon HQ — Financial Data Analyst  
-*07/2022 – 08/2022*  
-- Funding performance models and pipeline automation
+Languages
+======
+* French – Fluent  
+* English – Advanced (C1)  
+* Italian – Native  
+* Spanish – A2 (beginner)
 
----
-
-## Education
-
-**Université Paris 1 Panthéon-Sorbonne** – MSc Finance, Data & Technology  
-**Université Paris Cité** – MSc PISE – Data Science Methods  
-**University of Nottingham** – BSc Economics (Erasmus)  
-**Université de Lille** – BSc Law, Economics & Management
-
----
-
-## Certifications  
-- Bloomberg Market Concepts (BMC) & ESG  
-- IBM Machine Learning Certificate  
-- DataCamp – Data Scientist Track
-
----
-
-## Portfolio (on [GitHub](https://github.com/MaysaaRais/portfolio))  
-- Black-Scholes Pricing Engine  
-- Heston Monte Carlo Simulator  
-- Exotic Greeks Estimator  
-- GARCH & RNNs Volatility Forecasting  
-- Market Anomaly Detector
-
----
-
-## Languages  
-French (Fluent), English (C1), Italian (Native), Spanish (A2)
+Portfolio
+======
+* [Black-Scholes Pricing Engine](https://github.com/MaysaaRais/portfolio) – Greeks + 3D visualizations  
+* Heston Monte Carlo Simulator – Stochastic volatility pricing  
+* Exotic Option Greeks Estimator – Monte Carlo sensitivities  
+* Volatility Forecasting – GARCH and RNNs  
+* Market Anomaly Detector – Unsupervised learning on order book data
