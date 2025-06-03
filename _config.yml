@@ -350,12 +350,18 @@ compress_html:
   ignore:
     envs: development
 
+---
+title: "Contact"
+permalink: /contact/
+hidden: true
+---
+
 
 navigation:
   - title: "Projects"
     url: /projects/
   - title: "CV"
-  url: /files/MaysaaRais_CV.pdf
+    url: /files/MaysaaRais_CV.pdf
   - title: "About"
     url: /about/
 
