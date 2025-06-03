@@ -355,7 +355,7 @@ navigation:
   - title: "Projects"
     url: /projects/
   - title: "CV"
-    url: /cv/
+  url: /files/MaysaaRais_CV.pdf
   - title: "About"
     url: /about/
 
